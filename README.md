@@ -5,3 +5,5 @@
 分支branch万哈哈呵呵
 
 Fast forward
+
+Bug已修复
