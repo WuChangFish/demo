@@ -4,7 +4,7 @@
 
 分支branch万哈哈呵呵
 
-Fast forward
+Fast forward  pull request
 
 Bug已修复
 
